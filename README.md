@@ -22,7 +22,7 @@ Segun la version y el lenguaje elegido en la carpeta del entorno encontraras los
 
 ## ¿Como usarlo?
 
-Una vez dentro del directorio del entorno es necesario primero construir la imagen docker.
+Una vez dentro del directorio del entorno es necesario primero construir la imagen docker. (Solo sera necesario ejecutar este comando la primera vez que se usa el entorno o cuando se modifique el archivo dockerfile).
 
 ```bash
 ./build.sh
