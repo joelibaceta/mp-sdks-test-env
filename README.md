@@ -38,8 +38,18 @@ Una vez dentro del entorno podras visualizar los archivos dentro de la carpeta s
 
 Recodando que el SDK de MercadoPago ya viene instalado por defecto puede ejecutar el script de la forma estandar segun el lenguaje:
 
-- **PHP**   	`php script.php`
-- **Java**   	`java Script.java`
-- **NodeJS**   	`node script.js`
+- **PHP**   	
+    ```
+    php script.php
+    ```
+- **Java**   	
+    ```
+    javac Script.java
+    java Script
+    ```
+- **NodeJS**   	
+    ```
+    node script.js
+    ```
 
 > No es necesario cerrar terminal o finalizar el script para iniciar una nueva prueba, el contenedor refleja de forma automatica los cambios en los archivos de la carpeta script y estan siempre disponibles para ejecutar las pruebas.
